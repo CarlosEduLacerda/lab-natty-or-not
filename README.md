@@ -20,10 +20,10 @@ Os resultados foram conceitos de design de interiores que combinam funcionalidad
 ## 💭 Reflexão
 Trabalhar com IA para projetar espaços interiores permite explorar possibilidades que seriam difíceis de visualizar manualmente. A integração de ferramentas como Artbreeder e RunwayML foi crucial para transformar conceitos abstratos em visualizações tangíveis. Este projeto mostrou como a IA pode ser uma parceira poderosa no campo do design.
 
-[ChatGPT](https://www.openai.com/chatgpt)
-[ArtBreeder](https://www.artbreeder.com/)
-[RunwayML](https://runwayml.com/)
-[Canva](https://www.canva.com/)
+[ChatGPT](https://www.openai.com/chatgpt){:target="_blank"}
+[ArtBreeder](https://www.artbreeder.com/){:target="_blank"}
+[RunwayML](https://runwayml.com/){:target="_blank"}
+[Canva](https://www.canva.com/){:target="_blank"}
 
 Imagem Gerada: Sala de Estar Futurista
 
