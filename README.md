@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
+# Título do Projeto: Design de Interiores Futurista com IA
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foca na criação de conceitos de design de interiores futuristas utilizando inteligência artificial. A ideia é explorar como as tecnologias emergentes podem influenciar o design de espaços residenciais e comerciais no futuro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: Para gerar descrições detalhadas dos ambientes e ideias de design.
+Artbreeder: Para criar renders de ambientes internos futuristas.
+RunwayML: Para modelagem e visualização de conceitos 3D.
+Canva: Para a composição de painéis de apresentação e moodboards.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisa e Inspiração: Iniciamos com uma pesquisa sobre tendências futuras em design de interiores, incluindo uso de materiais inovadores e tecnologias inteligentes, auxiliados pelo ChatGPT.
+Desenvolvimento de Ideias: Utilizamos Artbreeder para gerar imagens conceituais com base em descrições como "sala de estar com paredes de vidro interativas e mobília minimalista de linhas fluidas".
+Modelagem 3D: As ideias selecionadas foram modeladas em RunwayML para criar renderizações mais detalhadas e precisas dos ambientes.
+Composição Visual: Finalmente, organizamos as renderizações em moodboards usando o Canva, destacando os elementos-chave de cada design.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados foram conceitos de design de interiores que combinam funcionalidade e estética futurista, incluindo salas de estar com interfaces holográficas e cozinhas automatizadas com superfícies inteligentes.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Trabalhar com IA para projetar espaços interiores permite explorar possibilidades que seriam difíceis de visualizar manualmente. A integração de ferramentas como Artbreeder e RunwayML foi crucial para transformar conceitos abstratos em visualizações tangíveis. Este projeto mostrou como a IA pode ser uma parceira poderosa no campo do design.
 
-### Exemplos e Insigths
+[ChatGPT](https://www.openai.com/chatgpt)
+[ArtBreeder](https://www.artbreeder.com/)
+[RunwayML](https://runwayml.com/)
+[Canva](https://www.canva.com/)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Imagem Gerada: Sala de Estar Futurista
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+![Imagem Gerada: Sala de Estar Futurista](https://img.freepik.com/fotos-premium/iluminacao-de-teto-azul-futurista-design-de-interiores-de-sala-de-estar-ia-imagem-gerada_210643-6888.jpg?w=1060)
